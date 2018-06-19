@@ -11,5 +11,6 @@ namespace CorsoDevOps
         public string PrimaProprietà { get; set; }
         public int PrimaProprieta { get; set; }
         public int SecondaProprieta { get; set; }
+        public int terzaproprieta { get; set; }
     }
 }
