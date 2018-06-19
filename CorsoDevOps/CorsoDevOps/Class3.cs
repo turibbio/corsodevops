@@ -8,5 +8,6 @@ namespace CorsoDevOps
 {
     class Class3
     {
+        public int TestPushFeature { get; set; }
     }
 }
