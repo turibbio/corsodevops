@@ -8,5 +8,7 @@ namespace CorsoDevOps
 {
     class Class2
     {
+        public int PrimaProprieta { get; set; }
+        public int SecondaProprieta { get; set; }
     }
 }
